@@ -29,4 +29,9 @@ Gradle installed, or use ./gradlew
 
 
 ## Scrapt Table
+### Video of Automation :
 https://github.com/user-attachments/assets/2466cb0b-7c26-454c-8653-df72d704a964
+
+### Screenshot of Report :
+<img width="1063" height="439" alt="Scrapt" src="https://github.com/user-attachments/assets/0f724c48-d6db-46e0-a227-4b38a9b22d28" />
+
