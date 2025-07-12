@@ -27,6 +27,11 @@ Stable internet connection
 
 Gradle installed, or use ./gradlew
 
+## Form Fillup
+### Video :
+
+### Screenshot Of Report :
+<img width="785" height="446" alt="Form" src="https://github.com/user-attachments/assets/e00a2acf-df81-499f-b06b-e4ebd19b03df" />
 
 ## Scrapt Table
 ### Video of Automation :
